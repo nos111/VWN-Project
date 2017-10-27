@@ -1,25 +1,5 @@
-# ReduxSimpleStarter
+VWN Project
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Displays a list of organizations on google maps as pins and once pressed on the name of an organization the descriptions expands.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Search tags are available to filter the results you want.
